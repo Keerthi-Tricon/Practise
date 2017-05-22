@@ -2,4 +2,8 @@ hi this is ginger!
 
 this is second version of ginger
 
+<<<<<<< HEAD
 hello 
+=======
+hi this is 2.1.0 vwersion of ginger
+>>>>>>> 369b93aea3f5e6214792cb69d26c4adfb7926b04
